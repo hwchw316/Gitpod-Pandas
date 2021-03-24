@@ -1,7 +1,7 @@
 # Practice for Pandas using Juypter
 
 
-Based on youtube [tutorial] (https://www.youtube.com/watch?v=vmEHCJofslg)
+Based on youtube [tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
 
 ### Get Data CSV TXT EXCEL
 
